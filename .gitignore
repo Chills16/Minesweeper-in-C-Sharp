@@ -1,0 +1,28 @@
+#Visual Studio files
+.vscode/
+.vs/
+
+#User-specific files and directories
+/bin/
+/obj/
+*.user
+*.suo
+*.sln.docstates
+*.userprefs
+
+#Compiled files
+*.dll
+*.exe
+
+#NuGet packages
+/packages/
+
+#Log files
+*.log
+
+#Windows-specific files and directories
+Thumbs.db
+Desktop.ini
+
+#macOS system files (remove if not needed)
+.DS_Store
